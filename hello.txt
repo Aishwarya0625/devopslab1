@@ -1,2 +1,7 @@
 hello git
+<<<<<<< HEAD
 this is to create merge conflict
+=======
+this is a new feature branch update
+>>>>>>> newbranch
+to resolve merge conflict
